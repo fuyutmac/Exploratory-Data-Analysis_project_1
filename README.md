@@ -105,6 +105,7 @@ The four plots that you will need to construct are shown below.
 
 ### Plot 3
 
+
 ![plot of Plot 3](plot3.png) 
 
 
